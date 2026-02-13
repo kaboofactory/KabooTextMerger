@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KabooTextMerger", "KabooTextMerger.csproj", "{1DDFA8EE-926D-1312-C383-76A7CE5C3D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDFA8EE-926D-1312-C383-76A7CE5C3D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDFA8EE-926D-1312-C383-76A7CE5C3D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDFA8EE-926D-1312-C383-76A7CE5C3D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDFA8EE-926D-1312-C383-76A7CE5C3D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3299D9A-2CA6-4D78-B4C1-86AE1D39B79C}
+	EndGlobalSection
+EndGlobal

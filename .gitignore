@@ -1,0 +1,24 @@
+# .NET / MSBuild build outputs
+**/bin/
+**/obj/
+
+# Visual Studio / user-local settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# Publish profile files can contain absolute local paths
+**/Properties/PublishProfiles/*.pubxml
+**/Properties/PublishProfiles/*.pubxml.user
+
+# Common local/cache files
+TestResults/
+packages/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
